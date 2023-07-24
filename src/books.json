@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Oppenheimer",
+    "author": "Kai Bird (Autor), Martin J. Sherwin (Autor)",
+    "description": "Oppenheimer: Biografia complexa do 'pai da bomba atômica', EUA no século XX.",
+    "pages": 640,
+    "tag": "Lendo",
+    "imageUrl": "https://m.media-amazon.com/images/P/B0C74QGQXD.01._SCLZZZZZZZ_SX500_.jpg"
+  },
+  {
+    "id": 2,
+    "title": "A Biblioteca da Meia-Noite",
+    "author": "Matt Haig",
+    "description": "A Biblioteca da Meia-Noite é um romance incrível que fala dos infinitos rumos que a vida pode tomar e da busca incessante pelo rumo certo.",
+    "pages": 308,
+    "tag": "Já Li",
+    "imageUrl": "https://m.media-amazon.com/images/P/B09BKDLD4F.01._SCLZZZZZZZ_SX500_.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Mindset",
+    "author": "George S Clason",
+    "description": "Mindset de sucesso: atitude mental crucial para alcançar objetivos, explorar potencial e educar filhos.",
+    "pages": 312,
+    "tag": "Quero Ler",
+    "imageUrl": "https://m.media-amazon.com/images/P/B01NASOQGG.01._SCLZZZZZZZ_SX500_.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Torto Arado",
+    "author": "Itamar Vieira Junior",
+    "description": "Um texto épico e lírico, realista e mágico que revela, para além de sua trama, um poderoso elemento de insubordinação social.   ",
+    "pages": 264,
+    "tag": "Lendo",
+    "imageUrl": "https://m.media-amazon.com/images/P/B07VFB2JVS.01._SCLZZZZZZZ_SX500_.jpg"
+  }
+]
